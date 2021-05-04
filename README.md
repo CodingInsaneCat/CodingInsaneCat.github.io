@@ -1,3 +1,3 @@
 # CodingInsaneCat.github.io
 
-Just a test of my portifolio webpage.
+This is my portifolio page
