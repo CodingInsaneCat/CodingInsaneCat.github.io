@@ -18,8 +18,7 @@ footer {
 .imgPerfil
 {
 	border-radius: 50%;
-
-	margin-left: 50px;
+	
 }
 
 jumbotron .text-introduction
@@ -48,6 +47,7 @@ jumbotron .text-introduction
 {
   color:white;
   background-color:black;
+  border-radius: 10%;
 }
 
 .strongLine
